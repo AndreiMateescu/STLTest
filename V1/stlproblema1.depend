@@ -1,0 +1,49 @@
+# depslib dependency file v1.0
+1487783801 source:c:\users\diamo\desktop\test stl\stlproblema1\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<list>
+	<algorithm>
+	<fstream>
+
+1488120827 source:c:\users\diamo\desktop\mateescu andrei - problema1\stlproblema1\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<list>
+	<algorithm>
+	<fstream>
+
+1488127446 source:c:\users\diamo\desktop\mateescu andrei - problema1\netrom\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<list>
+	<algorithm>
+	<fstream>
+	<set>
+	<limits.h>
+
+1488151844 source:c:\users\diamo\desktop\mateescu andrei - problema1\netrom - metoda1\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<list>
+	<algorithm>
+	<fstream>
+	<set>
+	<limits.h>
+
+1490019643 source:c:\users\diamo\desktop\problema netrom\modificata var1\metoda1\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<list>
+	<algorithm>
+	<fstream>
+	<set>
+	<limits.h>
+	<istream>
+	<unordered_map>
+
